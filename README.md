@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL ](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL ](https://github.com/YahiaG/3-column-preview-card-component)
+- Live Site URL: [Live site URL](https://yahiag.github.io/3-column-preview-card-component/)
 
 ## My process
 
